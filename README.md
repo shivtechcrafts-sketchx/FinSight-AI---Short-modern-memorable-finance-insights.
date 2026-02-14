@@ -16,6 +16,11 @@
 
 ---
 
+## 🖥️ Dashboard Preview
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-15 000038" src="https://github.com/user-attachments/assets/dde13941-2a7b-4378-8bd0-e4c830afba16" />
+
+
 ## 📖 Project Overview
 
 AI Expense Tracker Pro is a smart finance management application built with **Python + Streamlit**.
@@ -65,9 +70,7 @@ Example AI output:
 
 ---
 
-## 🖥️ Dashboard Preview
 
-(Add your screenshot here)
 
 ```text
 result/dashboard.png
@@ -104,22 +107,7 @@ expense-tracker-pro/
 ├── requirements.txt
 └── README.md
 
-⚙️ Installation
-1️⃣ Clone Repository
-git clone https://github.com/YOUR_USERNAME/expense-tracker-pro.git
-cd expense-tracker-pro
 
-2️⃣ Install Dependencies
-pip install -r requirements.txt
-
-3️⃣ Run Dashboard
-streamlit run app.py
-
-📊 Generated Outputs
-
-Automatically creates:
-
-result/report.csv
 
 
 Full transaction history
@@ -159,5 +147,6 @@ Shiv
 ⭐ If you like this project, give it a star!
 
 </div> ```
+
 
 
